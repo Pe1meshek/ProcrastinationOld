@@ -1,0 +1,3 @@
+Thread: Game
+Context:'Paint' Type:'SWindow' Tag:'None' Location:'D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\TabManager.cpp_1759'
+Context:'Prepass' Type:'SDetailSingleItemRow' Tag:'None' Location:'D:\build\++UE5\Sync\Engine\Source\Editor\PropertyEditor\Private\DetailItemNode.cpp_269'
